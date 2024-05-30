@@ -1,8 +1,8 @@
 # eRegister-HIE-utils
 
-Clone into `/development_emr` dir
+Clone this repo into `/development_emr` directory.
 
-Navigate into `eRegister-HIE-utils` dir
+Navigate into `eRegister-HIE-utils` directory.
 
 Run the following commands:
 ```
